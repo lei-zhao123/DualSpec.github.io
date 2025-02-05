@@ -42,33 +42,6 @@ We present generation results from our proposed **UniForm** across multiple audi
   </div>
 </div>
 
-### underwater bubbling
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-bottom: 30px;">
-  <div style="margin: 10px;">
-    <h3 style="font-size: 18px;">T2AV</h3>
-    <video width="256" height="256" controls>
-      <source src="landscape\i9jhcZlMO7E_clip_1_17fps_t2av.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-  
-  <div style="margin: 10px;">
-    <h3 style="font-size: 18px;">A2V</h3>
-    <video width="256" height="256" controls>
-      <source src="landscape\i9jhcZlMO7E_clip_1_17fps_ta2v.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-
-  <div style="margin: 10px;">
-    <h3 style="font-size: 18px;">V2A</h3>
-    <video width="256" height="256" controls>
-      <source src="landscape\i9jhcZlMO7E_clip_1_17fps_v2a.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-</div>
-
 ### squishing water
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-bottom: 30px;">
   <div style="margin: 10px;">
