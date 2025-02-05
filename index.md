@@ -13,6 +13,7 @@ As a natural multimodal content, audible video delivers an immersive sensory exp
 ## Demos
 We present generation results from our proposed **UniForm** across multiple audio-video synthesis conditions. Each set demonstrates three key capabilities under identical labels or captions: text-to-audible video (T2AV), audio-to-video (A2V), and video-to-audio (V2A).
 
+
 ## Landscape
 
 ### splashing water
@@ -145,6 +146,145 @@ We present generation results from our proposed **UniForm** across multiple audi
     <h3 style="font-size: 18px;">V2A</h3>
     <video width="256" height="256" controls>
       <source src="landscape\ZxGqX1cJdSQ_clip_1_17fps_tv2a.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</div>
+
+
+
+## AudioSet
+
+### audioset1
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-bottom: 30px;">
+  <div style="margin: 10px;">
+    <h3 style="font-size: 18px;">T2AV</h3>
+    <video width="256" height="256" controls>
+      <source src="audioset\ajMa6azANNw_t2av.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  
+  <div style="margin: 10px;">
+    <h3 style="font-size: 18px;">A2V</h3>
+    <video width="256" height="256" controls>
+      <source src="audioset\ajMa6azANNw_ta2v.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <div style="margin: 10px;">
+    <h3 style="font-size: 18px;">V2A</h3>
+    <video width="256" height="256" controls>
+      <source src="audioset\ajMa6azANNw_tv2a.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</div>
+
+### audioset2
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-bottom: 30px;">
+  <div style="margin: 10px;">
+    <h3 style="font-size: 18px;">T2AV</h3>
+    <video width="256" height="256" controls>
+      <source src="audioset\ChFCmNGP9XM_t2av.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  
+  <div style="margin: 10px;">
+    <h3 style="font-size: 18px;">A2V</h3>
+    <video width="256" height="256" controls>
+      <source src="audioset\ChFCmNGP9XM_ta2v.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <div style="margin: 10px;">
+    <h3 style="font-size: 18px;">V2A</h3>
+    <video width="256" height="256" controls>
+      <source src="audioset\ChFCmNGP9XM_tv2a.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</div>
+
+### audioset3
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-bottom: 30px;">
+  <div style="margin: 10px;">
+    <h3 style="font-size: 18px;">T2AV</h3>
+    <video width="256" height="256" controls>
+      <source src="audioset\oRcqtJt0_t2av.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  
+  <div style="margin: 10px;">
+    <h3 style="font-size: 18px;">A2V</h3>
+    <video width="256" height="256" controls>
+      <source src="audioset\oRcqtJt0_ta2v.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <div style="margin: 10px;">
+    <h3 style="font-size: 18px;">V2A</h3>
+    <video width="256" height="256" controls>
+      <source src="audioset\oRcqtJt0_tv2a.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</div>
+
+### audioset4
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-bottom: 30px;">
+  <div style="margin: 10px;">
+    <h3 style="font-size: 18px;">T2AV</h3>
+    <video width="256" height="256" controls>
+      <source src="audioset\xEtchO2CQBA_t2av.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  
+  <div style="margin: 10px;">
+    <h3 style="font-size: 18px;">A2V</h3>
+    <video width="256" height="256" controls>
+      <source src="audioset\xEtchO2CQBA_ta2v.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <div style="margin: 10px;">
+    <h3 style="font-size: 18px;">V2A</h3>
+    <video width="256" height="256" controls>
+      <source src="audioset\xEtchO2CQBA_tv2a.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</div>
+
+### audioset5
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-bottom: 30px;">
+  <div style="margin: 10px;">
+    <h3 style="font-size: 18px;">T2AV</h3>
+    <video width="256" height="256" controls>
+      <source src="audioset\ZBaYrfz5afo_t2av.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  
+  <div style="margin: 10px;">
+    <h3 style="font-size: 18px;">A2V</h3>
+    <video width="256" height="256" controls>
+      <source src="audioset\ZBaYrfz5afo_ta2v.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <div style="margin: 10px;">
+    <h3 style="font-size: 18px;">V2A</h3>
+    <video width="256" height="256" controls>
+      <source src="audioset\ZBaYrfz5afo_tv2a.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
