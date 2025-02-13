@@ -295,7 +295,6 @@ The video captures a serene tropical beach scene. The beach is lined with tall, 
 ## VGGSound
 
 
-
 The video captures a vibrant scene of a red passenger train journeying along a track. The train, adorned with a black roof and white lettering, is composed of multiple cars, each one a testament to the journey it embarks on. The train is moving from the left to the right of the frame, its journey marked by the lush green grass that lines the track. The sky above is a clear blue, dotted with fluffy white clouds, adding to the serene atmosphere of the scene. The image is a beautiful blend of man-made marvel and natural beauty.
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-bottom: 30px;">
   <div style="margin: 10px;">
@@ -399,35 +398,6 @@ The image captures a serene moment in nature, featuring a small bird perched on 
     <h3 style="font-size: 18px;">V2A</h3>
     <video width="256" height="256" controls>
       <source src="vgg\AMsYmKRnWE_000008_tv2a.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-</div>
-
-
-
-In the image, a man is seen sitting in a cozy cabin, engrossed in playing a violin. He is dressed in a black shirt and a gray hat, adding to the rustic charm of the scene. The cabin around him is warmly lit, with a fire burning in the background, casting a soft glow on the surroundings. The man's focus is entirely on his music, creating a serene and peaceful atmosphere.
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-bottom: 30px;">
-  <div style="margin: 10px;">
-    <h3 style="font-size: 18px;">T2AV</h3>
-    <video width="256" height="256" controls>
-      <source src="vgg\GW1J75oAKU_000304_t2av.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-  
-  <div style="margin: 10px;">
-    <h3 style="font-size: 18px;">A2V</h3>
-    <video width="256" height="256" controls>
-      <source src="vgg\GW1J75oAKU_000304_ta2v.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-
-  <div style="margin: 10px;">
-    <h3 style="font-size: 18px;">V2A</h3>
-    <video width="256" height="256" controls>
-      <source src="vgg\GW1J75oAKU_000304_tv2a.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
