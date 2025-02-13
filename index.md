@@ -294,32 +294,7 @@ The video captures a serene tropical beach scene. The beach is lined with tall, 
 
 ## VGGSound
 
-In the image, a young girl with long red hair is the main subject. She is standing in a room that has a guitar hanging on the wall and a door in the background. The girl is wearing a white shirt and a pink headband. She is holding a metal object, possibly a drum or a pan, and appears to be playing it. The room has a window with a view of a cityscape, suggesting an urban setting. The girl seems to be in the middle of an activity, possibly playing music or cooking.
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-bottom: 30px;">
-  <div style="margin: 10px;">
-    <h3 style="font-size: 18px;">T2AV</h3>
-    <video width="256" height="256" controls>
-      <source src="vgg\3Kv4fdm7Uk_000030_t2av.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-  
-  <div style="margin: 10px;">
-    <h3 style="font-size: 18px;">A2V</h3>
-    <video width="256" height="256" controls>
-      <source src="vgg\3Kv4fdm7Uk_000030_ta2v.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
 
-  <div style="margin: 10px;">
-    <h3 style="font-size: 18px;">V2A</h3>
-    <video width="256" height="256" controls>
-      <source src="vgg\3Kv4fdm7Uk_000030_tv2a.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-</div>
 
 The video captures a vibrant scene of a red passenger train journeying along a track. The train, adorned with a black roof and white lettering, is composed of multiple cars, each one a testament to the journey it embarks on. The train is moving from the left to the right of the frame, its journey marked by the lush green grass that lines the track. The sky above is a clear blue, dotted with fluffy white clouds, adding to the serene atmosphere of the scene. The image is a beautiful blend of man-made marvel and natural beauty.
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-bottom: 30px;">
@@ -429,32 +404,7 @@ The image captures a serene moment in nature, featuring a small bird perched on 
   </div>
 </div>
 
-The video shows a man sitting at a drum set, playing the drums. He is wearing a plaid shirt and has a beard. The drum set is in a room with various musical instruments and equipment in the background, suggesting a music studio or practice space. The man appears to be focused on his playing, and the image captures a moment of musical performance.
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-bottom: 30px;">
-  <div style="margin: 10px;">
-    <h3 style="font-size: 18px;">T2AV</h3>
-    <video width="256" height="256" controls>
-      <source src="vgg\fAVezaAX18_000126_t2av.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-  
-  <div style="margin: 10px;">
-    <h3 style="font-size: 18px;">A2V</h3>
-    <video width="256" height="256" controls>
-      <source src="vgg\fAVezaAX18_000126_ta2v.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
 
-  <div style="margin: 10px;">
-    <h3 style="font-size: 18px;">V2A</h3>
-    <video width="256" height="256" controls>
-      <source src="vgg\fAVezaAX18_000126_tv2a.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-</div>
 
 In the image, a man is seen sitting in a cozy cabin, engrossed in playing a violin. He is dressed in a black shirt and a gray hat, adding to the rustic charm of the scene. The cabin around him is warmly lit, with a fire burning in the background, casting a soft glow on the surroundings. The man's focus is entirely on his music, creating a serene and peaceful atmosphere.
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-bottom: 30px;">
@@ -483,32 +433,7 @@ In the image, a man is seen sitting in a cozy cabin, engrossed in playing a viol
   </div>
 </div>
 
-The video shows a vintage steam locomotive on a track, with a red and black color scheme. The locomotive is adorned with the words "SUSQUEHANNA RIVER COAL COMPANY" in red letters on its side. The train is moving along a track that appears to be elevated, possibly on a bridge or overpass. The surrounding environment suggests a mountainous landscape, with a clear sky and a hint of snow on the ground. The image is a still from a video, as indicated by the low resolution and the presence of a play button overlay.
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-bottom: 30px;">
-  <div style="margin: 10px;">
-    <h3 style="font-size: 18px;">T2AV</h3>
-    <video width="256" height="256" controls>
-      <source src="vgg\JGpAlLrSD0_000458_t2av.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-  
-  <div style="margin: 10px;">
-    <h3 style="font-size: 18px;">A2V</h3>
-    <video width="256" height="256" controls>
-      <source src="vgg\JGpAlLrSD0_000458_ta2v.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
 
-  <div style="margin: 10px;">
-    <h3 style="font-size: 18px;">V2A</h3>
-    <video width="256" height="256" controls>
-      <source src="vgg\JGpAlLrSD0_000458_tv2a.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-</div>
 
 The video shows a man sitting in a room, deeply engrossed in playing a guitar. He is wearing a black jacket and has a serious expression on his face. The guitar he is playing has a wooden body and a black pickguard. The room has a wooden wall and a door, and the man is seated on a chair. The lighting in the room is dim, creating a cozy atmosphere. The man's fingers are moving over the strings of the guitar, indicating that he is playing a song. The overall scene suggests a quiet, intimate moment of music-making.
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-bottom: 30px;">
@@ -672,59 +597,7 @@ The video shows a single chicken with a distinctive red comb and wattle, sitting
   </div>
 </div>
 
-The image shows a person underwater, wearing a black wetsuit and a black scuba mask with a snorkel. The person is making a hand gesture with their right hand, which appears to be a "shaka" sign, commonly associated with surf culture. The water is clear, and the person is surrounded by what looks like a swimming pool with a tiled floor. The person is also wearing a black life jacket with a red and white stripe on the chest. The image has a watermark at the bottom right corner that reads "Regulatory," suggesting that the image may be related to diving regulations or safety. The style of the image is a realistic photograph with a focus on the person and their underwater environment.
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-bottom: 30px;">
-  <div style="margin: 10px;">
-    <h3 style="font-size: 18px;">T2AV</h3>
-    <video width="256" height="256" controls>
-      <source src="vgg\ZRVktsXO9FI_000066_t2av.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-  
-  <div style="margin: 10px;">
-    <h3 style="font-size: 18px;">A2V</h3>
-    <video width="256" height="256" controls>
-      <source src="vgg\ZRVktsXO9FI_000066_ta2v.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
 
-  <div style="margin: 10px;">
-    <h3 style="font-size: 18px;">V2A</h3>
-    <video width="256" height="256" controls>
-      <source src="vgg\ZRVktsXO9FI_000066_tv2a.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-</div>
-
-The video captures a moment of musical expression, featuring a person playing a drum set. The drummer, dressed in a black shirt, is seated at a drum kit that includes a snare, toms, and cymbals. The drummer's hands are in motion, striking the drums with precision and rhythm. The drum set is set against a backdrop of a blue wall, and a window can be seen in the background. The drummer's focus and the dynamic movement of the drumsticks suggest a passion for music and the art of drumming.
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-bottom: 30px;">
-  <div style="margin: 10px;">
-    <h3 style="font-size: 18px;">T2AV</h3>
-    <video width="256" height="256" controls>
-      <source src="vgg\ZuBxMCk0cco_000140_t2av.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-  
-  <div style="margin: 10px;">
-    <h3 style="font-size: 18px;">A2V</h3>
-    <video width="256" height="256" controls>
-      <source src="vgg\ZuBxMCk0cco_000140_ta2v.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-
-  <div style="margin: 10px;">
-    <h3 style="font-size: 18px;">V2A</h3>
-    <video width="256" height="256" controls>
-      <source src="vgg\ZuBxMCk0cco_000140_tv2a.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-</div>
 
 The image captures a dramatic moment of a rocket launch. The rocket, with its long, slender body and pointed nose, is seen ascending into the sky, leaving behind a trail of smoke. The sky is a deep, inky black, providing a stark contrast to the rocket's white trail. The rocket is positioned in the center of the image, drawing the viewer's attention immediately. The smoke trail extends upwards and to the right, indicating the rocket's trajectory. The background is a dark, starry sky, adding to the sense of depth and vastness. The image is a still from a video, as indicated by the play button overlay in the bottom right corner. The overall scene is a testament to human ingenuity and the power of rocket technology.
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-bottom: 30px;">
