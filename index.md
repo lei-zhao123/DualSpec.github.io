@@ -109,7 +109,7 @@ We showcase ​DualSpec's spatial audio generation capabilities across three des
       <source src="audio/time/130586^270_true270_pred270.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">130586^270_true270_pred270.wav</p>
+    <p style="text-align: center;">wind chime & 3 o'clock direction</p>
   </div>
 
   <div style="margin: 10px;">
@@ -117,7 +117,7 @@ We showcase ​DualSpec's spatial audio generation capabilities across three des
       <source src="audio/time/18772^150_true150_pred150.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">18772^150_true150_pred150.wav</p>
+    <p style="text-align: center;">accelerating and revving & 7 o'clock direction</p>
   </div>
 </div>
 
@@ -127,7 +127,7 @@ We showcase ​DualSpec's spatial audio generation capabilities across three des
       <source src="audio/time/1-104089-A-22^300_true300_pred300.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">1-104089-A-22^300_true300_pred300.wav</p>
+    <p style="text-align: center;">clapping & 2 o'clock direction</p>
   </div>
   
   <div style="margin: 10px;">
@@ -135,7 +135,7 @@ We showcase ​DualSpec's spatial audio generation capabilities across three des
       <source src="audio/time/1-79113-A-5^60_true60_pred60.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">1-79113-A-5^60_true60_pred60.wav</p>
+    <p style="text-align: center;">baby crying & 10 o'clock direction</p>
   </div>
 
   <div style="margin: 10px;">
@@ -143,7 +143,7 @@ We showcase ​DualSpec's spatial audio generation capabilities across three des
       <source src="audio/time/114587-3-0-7^120_true120_pred120.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">114587-3-0-7^120_true120_pred120.wav</p>
+    <p style="text-align: center;">dog bark & 8 o'clock direction</p>
   </div>
 </div>
 
@@ -153,7 +153,7 @@ We showcase ​DualSpec's spatial audio generation capabilities across three des
       <source src="audio/time/11970^180_true180_pred180.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">11970^180_true180_pred180.wav</p>
+    <p style="text-align: center;">guitar & 6 o'clock direction</p>
   </div>
   
   <div style="margin: 10px;">
@@ -161,7 +161,7 @@ We showcase ​DualSpec's spatial audio generation capabilities across three des
       <source src="audio/time/135703^0_true0_pred0.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">135703^0_true0_pred0.wav</p>
+    <p style="text-align: center;">electric guitar & 12 o'clock direction</p>
   </div>
 
   <div style="margin: 10px;">
@@ -169,7 +169,7 @@ We showcase ​DualSpec's spatial audio generation capabilities across three des
       <source src="audio/time/2-135649-B-45^210_true210_pred210.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">2-135649-B-45^210_true210_pred210.wav</p>
+    <p style="text-align: center;">train & 5 o'clock direction</p>
   </div>
 </div>
 
