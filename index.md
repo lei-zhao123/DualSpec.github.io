@@ -37,7 +37,7 @@ We showcase ​DualSpec's spatial audio generation capabilities across three des
       <source src="audio/doa/18581-3-0-5^180_true180_pred180.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">dog bark & DOA 180°.wav</p>
+    <p style="text-align: center;">dog bark & DOA 180°</p>
   </div>
 </div>
 
@@ -47,7 +47,7 @@ We showcase ​DualSpec's spatial audio generation capabilities across three des
       <source src="audio/doa/1-30214-A-18^300_true300_pred300.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">toilet flush & DOA 300°.wav</p>
+    <p style="text-align: center;">toilet flush & DOA 300°</p>
   </div>
   
   <div style="margin: 10px;">
@@ -55,7 +55,7 @@ We showcase ​DualSpec's spatial audio generation capabilities across three des
       <source src="audio/doa/12775^0_true0_pred0.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">pinao & DOA 0°.wav</p>
+    <p style="text-align: center;">pinao & DOA 0°</p>
   </div>
 
   <div style="margin: 10px;">
@@ -73,7 +73,7 @@ We showcase ​DualSpec's spatial audio generation capabilities across three des
       <source src="audio/doa/3-144253-A-29^60_true60_pred60.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">drinking & DOA 60°.wav</p>
+    <p style="text-align: center;">drinking & DOA 60°</p>
   </div>
   
   <div style="margin: 10px;">
@@ -81,7 +81,7 @@ We showcase ​DualSpec's spatial audio generation capabilities across three des
       <source src="audio/doa/3471^150_true150_pred150.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">acoustic guitar & DOA 150°.wav</p>
+    <p style="text-align: center;">acoustic guitar & DOA 150°</p>
   </div>
 
   <div style="margin: 10px;">
