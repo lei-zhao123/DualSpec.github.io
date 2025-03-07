@@ -21,7 +21,7 @@ We showcase ​DualSpec's spatial audio generation capabilities across three des
       <source src="audio/doa/248790^0_true0_pred0.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">woodwind & DOA 90°</p>
+    <p style="text-align: center;">woodwind & DOA 60°</p>
   </div>
   
   <div style="margin: 10px;">
