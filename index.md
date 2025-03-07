@@ -101,7 +101,7 @@ We showcase ​DualSpec's spatial audio generation capabilities across three des
       <source src="audio/time/4-187769-B-14^0_true0_pred0.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">4-187769-B-14^0_true0_pred0.wav</p>
+    <p style="text-align: center;">chirping birds & 12 o'clock direction</p> 
   </div>
   
   <div style="margin: 10px;">
