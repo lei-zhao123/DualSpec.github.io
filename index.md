@@ -1,4 +1,3 @@
-
 <style>
   h3 {
     text-align: center;
@@ -16,249 +15,240 @@ We showcase ​DualSpec's spatial audio generation capabilities across three des
 
 ## Direction-of-Arrival (DOA)
 
-### mel
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-bottom: 30px;">
   <div style="margin: 10px;">
     <audio controls>
-      <source src="mel/doa/248790^0_true0_pred0.wav" type="audio/wav">
+      <source src="audio/doa/248790^0_true0_pred0.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">[Caption placeholder]</p>
+    <p style="text-align: center;">248790^0_true0_pred0.wav</p>
   </div>
   
   <div style="margin: 10px;">
     <audio controls>
-      <source src="mel/doa/94370^270_true270_pred270.wav" type="audio/wav">
+      <source src="audio/doa/94370^270_true270_pred270.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">[Caption placeholder]</p>
+    <p style="text-align: center;">94370^270_true270_pred270.wav</p>
   </div>
 
   <div style="margin: 10px;">
     <audio controls>
-      <source src="mel/doa/18581-3-0-5^180_true180_pred180.wav" type="audio/wav">
+      <source src="audio/doa/18581-3-0-5^180_true180_pred180.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">[Caption placeholder]</p>
+    <p style="text-align: center;">18581-3-0-5^180_true180_pred180.wav</p>
   </div>
 </div>
 
-### twoconcat
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-bottom: 30px;">
   <div style="margin: 10px;">
     <audio controls>
-      <source src="twoconcat/doa/audio1.wav" type="audio/wav">
+      <source src="audio/doa/1-30214-A-18^300_true300_pred300.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">[Caption placeholder]</p>
+    <p style="text-align: center;">1-30214-A-18^300_true300_pred300.wav</p>
   </div>
   
   <div style="margin: 10px;">
     <audio controls>
-      <source src="twoconcat/doa/audio2.wav" type="audio/wav">
+      <source src="audio/doa/12775^0_true0_pred0.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">[Caption placeholder]</p>
+    <p style="text-align: center;">12775^0_true0_pred0.wav</p>
   </div>
 
   <div style="margin: 10px;">
     <audio controls>
-      <source src="twoconcat/doa/audio3.wav" type="audio/wav">
+      <source src="audio/doa/2-95258-A-1^210_true210_pred210.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">[Caption placeholder]</p>
+    <p style="text-align: center;">2-95258-A-1^210_true210_pred210.wav</p>
   </div>
 </div>
 
-### twoconcat2
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-bottom: 30px;">
   <div style="margin: 10px;">
     <audio controls>
-      <source src="twoconcat2/doa/audio1.wav" type="audio/wav">
+      <source src="audio/doa/3-144253-A-29^60_true60_pred60.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">[Caption placeholder]</p>
+    <p style="text-align: center;">3-144253-A-29^60_true60_pred60.wav</p>
   </div>
   
   <div style="margin: 10px;">
     <audio controls>
-      <source src="twoconcat2/doa/audio2.wav" type="audio/wav">
+      <source src="audio/doa/3471^150_true150_pred150.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">[Caption placeholder]</p>
+    <p style="text-align: center;">3471^150_true150_pred150.wav</p>
   </div>
 
   <div style="margin: 10px;">
     <audio controls>
-      <source src="twoconcat2/doa/audio3.wav" type="audio/wav">
+      <source src="audio/doa/4-204777-B-39^180_true180_pred180.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">[Caption placeholder]</p>
+    <p style="text-align: center;">4-204777-B-39^180_true180_pred180.wav</p>
   </div>
 </div>
 
 ## Clock Position
 
-### mel
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-bottom: 30px;">
   <div style="margin: 10px;">
     <audio controls>
-      <source src="mel/time/4-187769-B-14^0_true0_pred0.wav" type="audio/wav">
+      <source src="audio/time/4-187769-B-14^0_true0_pred0.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">[Caption placeholder]</p>
+    <p style="text-align: center;">4-187769-B-14^0_true0_pred0.wav</p>
   </div>
   
   <div style="margin: 10px;">
     <audio controls>
-      <source src="mel/time/130586^270_true270_pred270.wav" type="audio/wav">
+      <source src="audio/time/130586^270_true270_pred270.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">[Caption placeholder]</p>
+    <p style="text-align: center;">130586^270_true270_pred270.wav</p>
   </div>
 
   <div style="margin: 10px;">
     <audio controls>
-      <source src="mel/time/18772^150_true150_pred150.wav" type="audio/wav">
+      <source src="audio/time/18772^150_true150_pred150.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">[Caption placeholder]</p>
+    <p style="text-align: center;">18772^150_true150_pred150.wav</p>
   </div>
 </div>
 
-### twoconcat
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-bottom: 30px;">
   <div style="margin: 10px;">
     <audio controls>
-      <source src="twoconcat/clock/audio1.wav" type="audio/wav">
+      <source src="audio/time/1-104089-A-22^300_true300_pred300.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">[Caption placeholder]</p>
+    <p style="text-align: center;">1-104089-A-22^300_true300_pred300.wav</p>
   </div>
   
   <div style="margin: 10px;">
     <audio controls>
-      <source src="twoconcat/clock/audio2.wav" type="audio/wav">
+      <source src="audio/time/1-79113-A-5^60_true60_pred60.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">[Caption placeholder]</p>
+    <p style="text-align: center;">1-79113-A-5^60_true60_pred60.wav</p>
   </div>
 
   <div style="margin: 10px;">
     <audio controls>
-      <source src="twoconcat/clock/audio3.wav" type="audio/wav">
+      <source src="audio/time/114587-3-0-7^120_true120_pred120.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">[Caption placeholder]</p>
+    <p style="text-align: center;">114587-3-0-7^120_true120_pred120.wav</p>
   </div>
 </div>
 
-### twoconcat2
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-bottom: 30px;">
   <div style="margin: 10px;">
     <audio controls>
-      <source src="twoconcat2/clock/audio1.wav" type="audio/wav">
+      <source src="audio/time/11970^180_true180_pred180.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">[Caption placeholder]</p>
+    <p style="text-align: center;">11970^180_true180_pred180.wav</p>
   </div>
   
   <div style="margin: 10px;">
     <audio controls>
-      <source src="twoconcat2/clock/audio2.wav" type="audio/wav">
+      <source src="audio/time/135703^0_true0_pred0.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">[Caption placeholder]</p>
+    <p style="text-align: center;">135703^0_true0_pred0.wav</p>
   </div>
 
   <div style="margin: 10px;">
     <audio controls>
-      <source src="twoconcat2/clock/audio3.wav" type="audio/wav">
+      <source src="audio/time/2-135649-B-45^210_true210_pred210.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">[Caption placeholder]</p>
+    <p style="text-align: center;">2-135649-B-45^210_true210_pred210.wav</p>
   </div>
 </div>
 
 ## Rough Directional
 
-### mel
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-bottom: 30px;">
   <div style="margin: 10px;">
     <audio controls>
-      <source src="mel/rough/371813^30_true30_pred30.wav" type="audio/wav">
+      <source src="audio/rough/371813^30_true30_pred30.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">[Caption placeholder]</p>
+    <p style="text-align: center;">371813^30_true30_pred30.wav</p>
   </div>
   
   <div style="margin: 10px;">
     <audio controls>
-      <source src="mel/rough/248434^150_true150_pred150.wav" type="audio/wav">
+      <source src="audio/rough/248434^150_true150_pred150.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">[Caption placeholder]</p>
+    <p style="text-align: center;">248434^150_true150_pred150.wav</p>
   </div>
 
   <div style="margin: 10px;">
     <audio controls>
-      <source src="mel/rough/377021^210_true210_pred210.wav" type="audio/wav">
+      <source src="audio/rough/377021^210_true210_pred210.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">[Caption placeholder]</p>
+    <p style="text-align: center;">377021^210_true210_pred210.wav</p>
   </div>
 </div>
 
-### twoconcat
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-bottom: 30px;">
   <div style="margin: 10px;">
     <audio controls>
-      <source src="twoconcat/rough/audio1.wav" type="audio/wav">
+      <source src="audio/rough/115242-9-0-68^240_true240_pred240.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">[Caption placeholder]</p>
+    <p style="text-align: center;">115242-9-0-68^240_true240_pred240.wav</p>
   </div>
   
   <div style="margin: 10px;">
     <audio controls>
-      <source src="twoconcat/rough/audio2.wav" type="audio/wav">
+      <source src="audio/rough/3-134049-A-1^180_true180_pred180.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">[Caption placeholder]</p>
+    <p style="text-align: center;">3-134049-A-1^180_true180_pred180.wav</p>
   </div>
 
   <div style="margin: 10px;">
     <audio controls>
-      <source src="twoconcat/rough/audio3.wav" type="audio/wav">
+      <source src="audio/rough/35286^60_true60_pred60.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">[Caption placeholder]</p>
+    <p style="text-align: center;">35286^60_true60_pred60.wav</p>
   </div>
 </div>
 
-### twoconcat2
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-bottom: 30px;">
   <div style="margin: 10px;">
     <audio controls>
-      <source src="twoconcat2/rough/audio1.wav" type="audio/wav">
+      <source src="audio/rough/4-187769-B-14^0_true0_pred0.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">[Caption placeholder]</p>
+    <p style="text-align: center;">4-187769-B-14^0_true0_pred0.wav</p>
   </div>
   
   <div style="margin: 10px;">
     <audio controls>
-      <source src="twoconcat2/rough/audio2.wav" type="audio/wav">
+      <source src="audio/rough/4-250869-C-2^210_true210_pred210.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">[Caption placeholder]</p>
+    <p style="text-align: center;">4-250869-C-2^210_true210_pred210.wav</p>
   </div>
 
   <div style="margin: 10px;">
     <audio controls>
-      <source src="twoconcat2/rough/audio3.wav" type="audio/wav">
+      <source src="audio/rough/5-250026-A-30^300_true300_pred300.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">[Caption placeholder]</p>
+    <p style="text-align: center;">5-250026-A-30^300_true300_pred300.wav</p>
   </div>
 </div>
