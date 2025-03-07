@@ -173,7 +173,7 @@ We showcase ​DualSpec's spatial audio generation capabilities across three des
   </div>
 </div>
 
-## Rough Directional
+## General Description
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-bottom: 30px;">
   <div style="margin: 10px;">
@@ -181,7 +181,7 @@ We showcase ​DualSpec's spatial audio generation capabilities across three des
       <source src="audio/rough/371813^30_true30_pred30.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">371813^30_true30_pred30.wav</p>
+    <p style="text-align: center;">bathhub washing & forward left, slight angle</p>
   </div>
   
   <div style="margin: 10px;">
@@ -189,7 +189,7 @@ We showcase ​DualSpec's spatial audio generation capabilities across three des
       <source src="audio/rough/248434^150_true150_pred150.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">248434^150_true150_pred150.wav</p>
+    <p style="text-align: center;">woodwind & positioned to the rear on the left side</p>
   </div>
 
   <div style="margin: 10px;">
@@ -197,7 +197,7 @@ We showcase ​DualSpec's spatial audio generation capabilities across three des
       <source src="audio/rough/377021^210_true210_pred210.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">377021^210_true210_pred210.wav</p>
+    <p style="text-align: center;">applause & rear, slightly to the right</p>
   </div>
 </div>
 
@@ -207,7 +207,7 @@ We showcase ​DualSpec's spatial audio generation capabilities across three des
       <source src="audio/rough/115242-9-0-68^240_true240_pred240.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">115242-9-0-68^240_true240_pred240.wav</p>
+    <p style="text-align: center;">street music & rear right</p>
   </div>
   
   <div style="margin: 10px;">
@@ -215,7 +215,7 @@ We showcase ​DualSpec's spatial audio generation capabilities across three des
       <source src="audio/rough/3-134049-A-1^180_true180_pred180.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">3-134049-A-1^180_true180_pred180.wav</p>
+    <p style="text-align: center;">rooster & directly behind</p>
   </div>
 
   <div style="margin: 10px;">
@@ -223,7 +223,7 @@ We showcase ​DualSpec's spatial audio generation capabilities across three des
       <source src="audio/rough/35286^60_true60_pred60.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">35286^60_true60_pred60.wav</p>
+    <p style="text-align: center;">cowbell & toward the front left</p>
   </div>
 </div>
 
@@ -233,7 +233,7 @@ We showcase ​DualSpec's spatial audio generation capabilities across three des
       <source src="audio/rough/4-187769-B-14^0_true0_pred0.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">4-187769-B-14^0_true0_pred0.wav</p>
+    <p style="text-align: center;">chirping birds & straight head</p>
   </div>
   
   <div style="margin: 10px;">
@@ -241,7 +241,7 @@ We showcase ​DualSpec's spatial audio generation capabilities across three des
       <source src="audio/rough/4-250869-C-2^210_true210_pred210.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">4-250869-C-2^210_true210_pred210.wav</p>
+    <p style="text-align: center;">pig & right rear</p>
   </div>
 
   <div style="margin: 10px;">
@@ -249,6 +249,6 @@ We showcase ​DualSpec's spatial audio generation capabilities across three des
       <source src="audio/rough/5-250026-A-30^300_true300_pred300.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">5-250026-A-30^300_true300_pred300.wav</p>
+    <p style="text-align: center;">knock & to the right front, slightly moving back</p>
   </div>
 </div>
