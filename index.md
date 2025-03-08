@@ -2,6 +2,31 @@
   h3 {
     text-align: center;
   }
+  
+  .audio-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: 30px;
+    width: 100%;
+  }
+  
+  .audio-item {
+    width: 30%;
+    margin: 10px;
+    min-width: 250px;
+  }
+  
+  .audio-item p {
+    text-align: center;
+    word-wrap: break-word;
+    margin: 10px auto;
+    max-width: 100%;
+  }
+  
+  audio {
+    width: 100%;
+  }
 </style>
 
 
@@ -175,29 +200,29 @@ We showcase ​DualSpec's spatial audio generation capabilities through three di
 
 ## General Description
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-bottom: 30px;">
-  <div style="margin: 10px;">
+<div class="audio-grid">
+  <div class="audio-item">
     <audio controls>
       <source src="audio/rough/371813^30_true30_pred30.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">bathhub washing & forward left, slight angle</p>
+    <p>bathhub washing & forward left, slight angle</p>
   </div>
   
-  <div style="margin: 10px;">
+  <div class="audio-item">
     <audio controls>
       <source src="audio/rough/248434^150_true150_pred150.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">woodwind & positioned to the rear on the left side</p>
+    <p>woodwind & positioned to the rear on the left side</p>
   </div>
 
-  <div style="margin: 10px;">
+  <div class="audio-item">
     <audio controls>
       <source src="audio/rough/377021^210_true210_pred210.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p style="text-align: center;">applause & rear, slightly to the right</p>
+    <p>applause & rear, slightly to the right</p>
   </div>
 </div>
 
