@@ -3,27 +3,36 @@
     text-align: center;
   }
   
+  /* 音频播放器容器样式 */
   div[style*="display: flex"] {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    margin-bottom: 30px;
     gap: 20px;
+    margin-bottom: 30px;
   }
-
-  div[style*="display: flex"] > div {
-    width: 300px;
+  
+  /* 单个音频项目容器样式 */
+  div[style*="margin: 10px"] {
+    flex: 1;
+    min-width: 250px;
+    max-width: calc(33.33% - 20px);
+    margin: 0 !important;
   }
-
-  div[style*="display: flex"] audio {
-    width: 300px;
-  }
-
-  div[style*="display: flex"] p {
-    text-align: center;
-    word-wrap: break-word;
-    margin: 10px 0;
+  
+  /* 音频播放器样式 */
+  audio {
     width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  /* 文本描述样式 */
+  div[style*="margin: 10px"] p {
+    text-align: center;
+    margin: 0;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
   }
 </style>
 
@@ -198,29 +207,29 @@ We showcase ​DualSpec's spatial audio generation capabilities through three di
 
 ## General Description
 
-<div class="audio-grid">
-  <div class="audio-item">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; margin-bottom: 30px;">
+  <div style="margin: 10px;">
     <audio controls>
       <source src="audio/rough/371813^30_true30_pred30.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p>bathhub washing & forward left, slight angle</p>
+    <p style="text-align: center;">bathhub washing & forward left, slight angle</p>
   </div>
   
-  <div class="audio-item">
+  <div style="margin: 10px;">
     <audio controls>
       <source src="audio/rough/248434^150_true150_pred150.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p>woodwind & positioned to the rear on the left side</p>
+    <p style="text-align: center;">woodwind & positioned to the rear on the left side</p>
   </div>
 
-  <div class="audio-item">
+  <div style="margin: 10px;">
     <audio controls>
       <source src="audio/rough/377021^210_true210_pred210.wav" type="audio/wav">
       Your browser does not support the audio element.
     </audio>
-    <p>applause & rear, slightly to the right</p>
+    <p style="text-align: center;">applause & rear, slightly to the right</p>
   </div>
 </div>
 
