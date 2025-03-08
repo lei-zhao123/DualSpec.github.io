@@ -3,28 +3,26 @@
     text-align: center;
   }
   
-  .audio-grid {
+  div[style*="display: flex"] {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     margin-bottom: 30px;
-    width: 100%;
+    gap: 20px;
   }
-  
-  .audio-item {
-    width: 30%;
-    margin: 10px;
-    min-width: 250px;
+
+  div[style*="display: flex"] > div {
+    width: 300px;
   }
-  
-  .audio-item p {
+
+  div[style*="display: flex"] audio {
+    width: 300px;
+  }
+
+  div[style*="display: flex"] p {
     text-align: center;
     word-wrap: break-word;
-    margin: 10px auto;
-    max-width: 100%;
-  }
-  
-  audio {
+    margin: 10px 0;
     width: 100%;
   }
 </style>
